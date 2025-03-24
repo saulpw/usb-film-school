@@ -1,0 +1,38 @@
+# Every Frame a Painting: Movie Recommendations
+# from https://everyframeapainting.tumblr.com/post/100600898586/movie-recommendations
+
+## 20 Movies I Study for Editing
+tt0015324 # Sherlock Jr. (1924)
+tt0019760 # Man with the Movie Camera (1929)
+tt0036868 # The Best Years of Our Lives (1946)
+tt0040725 # The Red Shoes (1948)
+tt0046268 # The Wages of Fear (1953)
+tt0047478 # Seven Samurai (1954)
+tt0048021 # Rififi (1955)
+tt0054389 # Shoot the Piano Player (1960)
+tt0054632 # Last Year at Marienbad (1961)
+tt0061882 # Branded to Kill (1967)
+tt0064116 # Once Upon a Time in the West (1968)
+tt0063522 # Rosemary’s Baby (1968)
+tt0072962 # F for Fake (1973)
+tt0071360 # The Conversation (1974)
+tt0076759 # Star Wars (1977) Star Wars: Episode IV - A New Hope
+tt0099685 # Goodfellas (1990)
+tt0111512 # Drunken Master II (1994) The Legend of Drunken Master
+# NOT FOUND: Hana-bi (1997)
+tt0118694 # In the Mood for Love (2000)
+tt0291350 # Millennium Actress (2001)
+
+## South Korean Films
+tt0296658 # Take Care of My Cat (2001)
+tt0353969 # Memories of Murder (2003)
+tt0364569 # Oldboy (2003)
+tt0354668 # Save the Green Planet! (2003)
+tt0423866 # 3-Iron (2004)
+
+## Short films
+tt0048449 # One Froggy Evening (1955)
+tt0056119 # La Jetée (1962)
+tt0108598 # Wallace & Gromit: The Wrong Trousers (1993)
+tt0260948 # The Heart of the World (2000)
+tt0288006 # Fast Film (2003)

@@ -1,0 +1,126 @@
+# AFI's 100 Years...100 Movies (1998/2007)
+# from https://en.wikipedia.org/wiki/AFI's_100_Years...100_Movies
+
+tt0033467 # Citizen Kane (1941) # 1/1
+tt0034583 # Casablanca (1942) # 2/3
+tt0068646 # The Godfather (1972) # 3/2
+tt0031381 # Gone with the Wind (1939) # 4/6
+tt0056172 # Lawrence of Arabia (1962) # 5/7
+tt0032138 # The Wizard of Oz (1939) # 6/10
+tt0061722 # The Graduate (1967) # 7/17
+tt0047296 # On the Waterfront (1954) # 8/19
+tt0108052 # Schindler's List (1993) # 9/8
+tt0045152 # Singin' in the Rain (1952) # 10/5
+tt0038650 # It's a Wonderful Life (1946) # 11/20
+tt0043014 # Sunset Boulevard (1950) # 12/16
+tt0050212 # The Bridge on the River Kwai (1957) # 13/36
+tt0053291 # Some Like It Hot (1959) # 14/22
+tt0076759 # Star Wars: Episode IV - A New Hope (1977) # 15/13
+tt0042192 # All About Eve (1950) # 16/28
+tt0043265 # The African Queen (1951) # 17/65
+tt0054215 # Psycho (1960) # 18/14
+tt0071315 # Chinatown (1974) # 19/21
+tt0073486 # One Flew Over the Cuckoo's Nest (1975) # 20/33
+tt0032551 # The Grapes of Wrath (1940) # 21/23
+tt0062622 # 2001: A Space Odyssey (1968) # 22/15
+tt0033870 # The Maltese Falcon (1941) # 23/31
+tt0081398 # Raging Bull (1980) # 24/4
+tt0083866 # E.T. the Extra-Terrestrial (1982) # 25/24
+tt0057012 # Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) # 26/39
+tt0061418 # Bonnie and Clyde (1967) # 27/42
+tt0078788 # Apocalypse Now (1979) # 28/30
+tt0031679 # Mr. Smith Goes to Washington (1939) # 29/26
+tt0040897 # The Treasure of the Sierra Madre (1948) # 30/38
+tt0075686 # Annie Hall (1977) # 31/35
+tt0071562 # The Godfather Part II (1974) # 32/32
+tt0044706 # High Noon (1952) # 33/27
+tt0056592 # To Kill a Mockingbird (1962) # 34/25
+tt0025316 # It Happened One Night (1934) # 35/46
+tt0064665 # Midnight Cowboy (1969) # 36/43
+tt0036868 # The Best Years of Our Lives (1946) # 37/37
+tt0036775 # Double Indemnity (1944) # 38/29
+tt0059113 # Doctor Zhivago (1965) # 39/- 
+tt0053125 # North by Northwest (1959) # 40/55
+tt0055614 # West Side Story (1961) # 41/51
+tt0047396 # Rear Window (1954) # 42/48
+tt0024216 # King Kong (1933) # 43/41
+tt0004972 # The Birth of a Nation (1915) # 44/- 
+tt0044081 # A Streetcar Named Desire (1951) # 45/47
+tt0066921 # A Clockwork Orange (1971) # 46/70
+tt0075314 # Taxi Driver (1976) # 47/52
+tt0073195 # Jaws (1975) # 48/56
+tt0029583 # Snow White and the Seven Dwarfs (1937) # 49/34
+tt0064115 # Butch Cassidy and the Sundance Kid (1969) # 50/73
+tt0032904 # The Philadelphia Story (1940) # 51/44
+tt0045793 # From Here to Eternity (1953) # 52/- 
+tt0086879 # Amadeus (1984) # 53/- 
+tt0020629 # All Quiet on the Western Front (1930) # 54/- 
+tt0059742 # The Sound of Music (1965) # 55/40
+tt0066026 # M*A*S*H (1970) # 56/54
+tt0041959 # The Third Man (1949) # 57/- 
+tt0032455 # Fantasia (1940) # 58/- 
+tt0048545 # Rebel Without a Cause (1955) # 59/- 
+tt0082971 # Raiders of the Lost Ark (1981) # 60/66
+tt0052357 # Vertigo (1958) # 61/9
+tt0084805 # Tootsie (1982) # 62/69
+tt0031971 # Stagecoach (1939) # 63/- 
+tt0075860 # Close Encounters of the Third Kind (1977) # 64/- 
+tt0102926 # The Silence of the Lambs (1991) # 65/74
+tt0074958 # Network (1976) # 66/64
+tt0056218 # The Manchurian Candidate (1962) # 67/- 
+tt0043278 # An American in Paris (1951) # 68/- 
+tt0046303 # Shane (1953) # 69/45
+tt0067116 # The French Connection (1971) # 70/93
+tt0109830 # Forrest Gump (1994) # 71/76
+tt0052618 # Ben-Hur (1959) # 72/100
+tt0032145 # Wuthering Heights (1939) # 73/- 
+tt0015864 # The Gold Rush (1925) # 74/58
+tt0099348 # Dances with Wolves (1990) # 75/- 
+tt0021749 # City Lights (1931) # 76/11
+tt0069704 # American Graffiti (1973) # 77/62
+tt0075148 # Rocky (1976) # 78/57
+tt0077416 # The Deer Hunter (1978) # 79/53
+tt0065214 # The Wild Bunch (1969) # 80/79
+tt0027977 # Modern Times (1936) # 81/78
+tt0049261 # Giant (1956) # 82/- 
+tt0091763 # Platoon (1986) # 83/86
+tt0116282 # Fargo (1996) # 84/- 
+tt0023969 # Duck Soup (1933) # 85/60
+tt0026752 # Mutiny on the Bounty (1935) # 86/- 
+tt0021884 # Frankenstein (1931) # 87/- 
+tt0064276 # Easy Rider (1969) # 88/84
+tt0066206 # Patton (1970) # 89/- 
+tt0018037 # The Jazz Singer (1927) # 90/- 
+tt0058385 # My Fair Lady (1964) # 91/- 
+tt0043924 # A Place in the Sun (1951) # 92/- 
+tt0053604 # The Apartment (1960) # 93/80
+tt0099685 # Goodfellas (1990) # 94/92
+tt0110912 # Pulp Fiction (1994) # 95/94
+tt0049730 # The Searchers (1956) # 96/12
+tt0029947 # Bringing Up Baby (1938) # 97/88
+tt0105695 # Unforgiven (1992) # 98/68
+tt0061735 # Guess Who's Coming to Dinner (1967) # 99/- 
+tt0035575 # Yankee Doodle Dandy (1942) # 100/98
+tt0017925 # The General (1926) # -/18
+tt0006864 # Intolerance (1916) # -/49
+tt0120737 # The Lord of the Rings: The Fellowship of the Ring (2001) # -/50
+tt0073440 # Nashville (1975) # -/59
+tt0034240 # Sullivan's Travels (1941) # -/61
+tt0068327 # Cabaret (1972) # -/63
+tt0061184 # Who's Afraid of Virginia Woolf? (1966) # -/67
+tt0120815 # Saving Private Ryan (1998) # -/71
+tt0111161 # The Shawshank Redemption (1994) # -/72
+tt0061811 # In the Heat of the Night (1967) # -/75
+tt0074119 # All the President's Men (1976) # -/77
+tt0054331 # Spartacus (1960) # -/81
+tt0018455 # Sunrise (1927) # -/82
+tt0120338 # Titanic (1997) # -/83
+tt0026778 # A Night at the Opera (1935) # -/85
+tt0050083 # 12 Angry Men (1957) # -/87
+tt0167404 # The Sixth Sense (1999) # -/89
+tt0028333 # Swing Time (1936) # -/90
+tt0084707 # Sophie's Choice (1982) # -/91
+tt0067328 # The Last Picture Show (1971) # -/95
+tt0097216 # Do the Right Thing (1989) # -/96
+tt0083658 # Blade Runner (1982) # -/97
+tt0114709 # Toy Story (1995) # -/99
